@@ -1,3 +1,3 @@
-## Digital Watch
+# Digital Watch
 
-# A functional and modern digital watch
+## A functional and modern digital watch
