@@ -2,4 +2,4 @@
 
 ## A functional and modern digital watch
 
-- [lINK INSANO](https://www.google.com)
+![image](https://github.com/GabrielBetini/digital-watch/assets/54044791/23911cfe-157e-41ad-880e-f0a37722ecde)
