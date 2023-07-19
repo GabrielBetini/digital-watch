@@ -2,4 +2,4 @@
 
 ## A functional and modern digital watch
 
-- [lINK INSANO] (https://www.google.com)
+- [lINK INSANO](https://www.google.com)
